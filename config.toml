@@ -5,10 +5,10 @@ theme = "aerial"
 
 [params]
   name = "endtroduc.in"
-  about = "#java #dev #boot #cloud #agile #gamedev #pixelart"
-  copyright = "Untitled"
+  about = "#java #dev #boot #cloud #agile #gamedev #pixelart #pico8"
+  copyright = "edntroduc.in"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = ""
+  bg_scroll = "a"
 
 [[params.social]]
   medium = "Twitter"
